@@ -14,10 +14,10 @@ download that JAR directly from
 https://github.com/hardraada/minecraft.commons/blob/master/target/minecraft.commons-1.0.jar
 
 Permissions:
-None.
+featherfall.admin - allows user to toggle other players on or off.
 
 Configuration:
 None.
 
 Usage:
-featherfall [on|off] - turn feather fall on or off globally.
+featherfall [player] [on|off] - turn feather fall on or off for the given player.
